@@ -1,0 +1,6 @@
+{
+  "name": "Andha Helper",
+  "description": "Accessibility companion app for the ESP8266-based assistive device with live sensor monitoring, Hindi voice assistant, CameraX AI vision, GPS location sharing, and safe SOS emergency workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

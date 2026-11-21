@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Andha Helper</string>
+    <string name="app_title_display">ANDHA HELPER</string>
+    <string name="app_subtitle_hindi">अंधा हेल्पर • दृष्टिबाधित सहायक प्रणाली</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">डैशबोर्ड</string>
+    <string name="nav_camera">कैमरा AI</string>
+    <string name="nav_voice">आवाज़ सहायक</string>
+    <string name="nav_settings">सेटिंग्स</string>
+    <string name="nav_guide">गाइड</string>
+
+    <!-- Connection & Wi-Fi -->
+    <string name="esp_connected">ESP8266 जुड़ा है</string>
+    <string name="esp_connecting">ESP8266 से जुड़ रहा है…</string>
+    <string name="esp_disconnected">ESP8266 डिस्कनेक्ट है</string>
+    <string name="esp_simulated">सिम्युलेशन मोड (टेस्ट)</string>
+    <string name="wifi_ap_label">Wi-Fi: ANDHA-HELPER (192.168.4.1)</string>
+
+    <!-- Primary Actions -->
+    <string name="action_camera_ai">कैमरा AI देखें</string>
+    <string name="action_voice_hindi">हिंदी आवाज़</string>
+    <string name="action_sos_emergency">आपातकालीन SOS</string>
+    <string name="action_settings">सेटिंग्स</string>
+    <string name="action_speak_status">स्थिति सुनें</string>
+    <string name="action_call_contact">कॉल करें</string>
+    <string name="action_cancel_sos">SOS रद्द करें</string>
+
+    <!-- Safety Disclaimers -->
+    <string name="ai_safety_disclaimer">सावधानी: AI और सेंसर सभी खतरों को पहचानने की गारंटी नहीं देते। कृपया पारंपरिक सुरक्षा और सावधानी बनाए रखें।</string>
+    <string name="sos_test_mode_banner">टेस्ट मोड चालू है: वास्तविक कॉल या SMS नहीं भेजा जाएगा।</string>
+    <string name="android_sos_restriction_note">Android सुरक्षा नीति के कारण यह ऐप सीधे बैकग्राउंड कॉल या SMS के बजाय सिस्टम डायलर और SMS ऐप खोलता है।</string>
+</resources>
